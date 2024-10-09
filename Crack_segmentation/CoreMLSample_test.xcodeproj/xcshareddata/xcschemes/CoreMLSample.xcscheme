@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A415CAAB1EEA437900983607"
-               BuildableName = "CoreMLSample.app"
+               BuildableName = "CrackSegmentation.app"
                BlueprintName = "CoreMLSample"
                ReferencedContainer = "container:CoreMLSample_test.xcodeproj">
             </BuildableReference>
@@ -44,7 +44,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A415CAAB1EEA437900983607"
-            BuildableName = "CoreMLSample.app"
+            BuildableName = "CrackSegmentation.app"
             BlueprintName = "CoreMLSample"
             ReferencedContainer = "container:CoreMLSample_test.xcodeproj">
          </BuildableReference>
@@ -61,7 +61,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A415CAAB1EEA437900983607"
-            BuildableName = "CoreMLSample.app"
+            BuildableName = "CrackSegmentation.app"
             BlueprintName = "CoreMLSample"
             ReferencedContainer = "container:CoreMLSample_test.xcodeproj">
          </BuildableReference>

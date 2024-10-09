@@ -15,7 +15,6 @@
 		2BED0E972BDA3787000302D3 /* CVPixelBuffer+Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BED0E8F2BDA3787000302D3 /* CVPixelBuffer+Helpers.swift */; };
 		2BED0E982BDA3787000302D3 /* NonMaxSuppression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BED0E902BDA3787000302D3 /* NonMaxSuppression.swift */; };
 		2BED0E992BDA3787000302D3 /* MLMultiArray+Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BED0E912BDA3787000302D3 /* MLMultiArray+Image.swift */; };
-		2BED0E9B2BDAD696000302D3 /* your_model_name.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 2BED0E9A2BDAD696000302D3 /* your_model_name.mlmodel */; };
 		2BED0E9D2BDFE716000302D3 /* Crack_model.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 2BED0E9C2BDFE716000302D3 /* Crack_model.mlmodel */; };
 		2BED0EA12BE4488D000302D3 /* CGImage+RawBites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BED0EA02BE4488D000302D3 /* CGImage+RawBites.swift */; };
 		A415CAB01EEA437900983607 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A415CAAF1EEA437900983607 /* AppDelegate.swift */; };
@@ -25,7 +24,6 @@
 		E94B3DF51FC27C9800207FF4 /* CameraPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94B3DF41FC27C9700207FF4 /* CameraPreviewView.swift */; };
 		E94B3DF91FC27D5200207FF4 /* UIDevice+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94B3DF71FC27D5200207FF4 /* UIDevice+Extension.swift */; };
 		E94B3DFA1FC27D5200207FF4 /* AVCaptureDevice+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94B3DF81FC27D5200207FF4 /* AVCaptureDevice+Extension.swift */; };
-		E96454681FBD4E1300A07635 /* mu_224_050_best2.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = E96454671FBD4E0D00A07635 /* mu_224_050_best2.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,7 +35,6 @@
 		2BED0E8F2BDA3787000302D3 /* CVPixelBuffer+Helpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CVPixelBuffer+Helpers.swift"; sourceTree = "<group>"; };
 		2BED0E902BDA3787000302D3 /* NonMaxSuppression.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NonMaxSuppression.swift; sourceTree = "<group>"; };
 		2BED0E912BDA3787000302D3 /* MLMultiArray+Image.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "MLMultiArray+Image.swift"; sourceTree = "<group>"; };
-		2BED0E9A2BDAD696000302D3 /* your_model_name.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = your_model_name.mlmodel; sourceTree = "<group>"; };
 		2BED0E9C2BDFE716000302D3 /* Crack_model.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Crack_model.mlmodel; sourceTree = "<group>"; };
 		2BED0EA02BE4488D000302D3 /* CGImage+RawBites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGImage+RawBites.swift"; sourceTree = "<group>"; };
 		A415CAAC1EEA437900983607 /* CrackSegmentation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CrackSegmentation.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -49,7 +46,6 @@
 		E94B3DF41FC27C9700207FF4 /* CameraPreviewView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraPreviewView.swift; sourceTree = "<group>"; };
 		E94B3DF71FC27D5200207FF4 /* UIDevice+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIDevice+Extension.swift"; sourceTree = "<group>"; };
 		E94B3DF81FC27D5200207FF4 /* AVCaptureDevice+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AVCaptureDevice+Extension.swift"; sourceTree = "<group>"; };
-		E96454671FBD4E0D00A07635 /* mu_224_050_best2.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = mu_224_050_best2.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,14 +96,12 @@
 			isa = PBXGroup;
 			children = (
 				E94B3DF61FC27D3F00207FF4 /* Extensions */,
-				E96454671FBD4E0D00A07635 /* mu_224_050_best2.mlmodel */,
 				A415CAAF1EEA437900983607 /* AppDelegate.swift */,
 				A415CAB11EEA437900983607 /* ViewController.swift */,
 				E94B3DF41FC27C9700207FF4 /* CameraPreviewView.swift */,
 				A415CAD51EEA4BC900983607 /* Main.storyboard */,
 				A415CAB81EEA437900983607 /* LaunchScreen.storyboard */,
 				A415CABB1EEA437900983607 /* Info.plist */,
-				2BED0E9A2BDAD696000302D3 /* your_model_name.mlmodel */,
 				2BED0E9C2BDFE716000302D3 /* Crack_model.mlmodel */,
 			);
 			path = CoreMLSample;
@@ -196,7 +190,6 @@
 				2BED0E952BDA3787000302D3 /* Predictions.swift in Sources */,
 				2BED0E942BDA3787000302D3 /* Array.swift in Sources */,
 				E94B3DF91FC27D5200207FF4 /* UIDevice+Extension.swift in Sources */,
-				E96454681FBD4E1300A07635 /* mu_224_050_best2.mlmodel in Sources */,
 				2BED0E962BDA3787000302D3 /* MultiArray.swift in Sources */,
 				E94B3DFA1FC27D5200207FF4 /* AVCaptureDevice+Extension.swift in Sources */,
 				2BED0E982BDA3787000302D3 /* NonMaxSuppression.swift in Sources */,
@@ -205,7 +198,6 @@
 				A415CAB21EEA437900983607 /* ViewController.swift in Sources */,
 				E94B3DF51FC27C9800207FF4 /* CameraPreviewView.swift in Sources */,
 				2BED0E992BDA3787000302D3 /* MLMultiArray+Image.swift in Sources */,
-				2BED0E9B2BDAD696000302D3 /* your_model_name.mlmodel in Sources */,
 				2BED0E972BDA3787000302D3 /* CVPixelBuffer+Helpers.swift in Sources */,
 				A415CAB01EEA437900983607 /* AppDelegate.swift in Sources */,
 				2BED0E932BDA3787000302D3 /* UIImage+CVPixelBuffer.swift in Sources */,
