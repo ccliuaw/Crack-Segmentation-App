@@ -5,6 +5,10 @@
 //  Created by 杨萧玉 on 2017/6/9.
 //  Copyright © 2017年 杨萧玉. All rights reserved.
 //
+//  Revised and adjusted by ccliuaw, on 2024/07/21.
+//  ccliuaw use a different model and different image process to attach the results of
+//  segmentation model on the original image, and show on the screen of the iPhone.
+//
 
 import UIKit
 
