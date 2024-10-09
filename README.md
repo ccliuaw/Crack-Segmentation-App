@@ -6,7 +6,7 @@ This project is supervised by Prof. Chia-Ming Chang in National Taiwan Universit
 The app is created by Chun-Cheng Liu (ccliuaw), as an research assistant under the supervision of Prof. Chia-Ming Chang, in 2024.
 
 # Segmentation model
-Training a U-net model for crack segmentation, using 12000+ images.
+Training a U-net model for crack segmentation by myself, using 12000+ images.
 
 The model file for the demo is at the folder /Crack_segmentation/CoreMLSample/Extensions/Crack_model.mlmodel
 
