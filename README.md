@@ -14,13 +14,15 @@ Training a U-net model for crack segmentation by myself, using 12000+ images.
 Integrate the segmentation model into an iOS app, allow user to capture real-time segmentation results.
 
 # Demo vedios
->Please check the folder /Crack_segmentation/assets/ 
 
-There are 2 demo videos in the folder.
+There are 2 demo video YouTube link below, or you can check the folder /Crack_segmentation/assets/ .
 
 3x3 means I slice the whole screen into 9 blocks (3 rows & 3 columns). Each block represents a picture, goes into U-net model for segmentation process.
+https://www.youtube.com/shorts/ivD1d-AnnV4
+
 
 4x4 means I slice the screen into 16 blocks (4 rows & 4 columns).
+https://youtube.com/shorts/IatsAP5FPcQ?feature=share
 
 # Reference
 1. coreMLhelpers by hollance
