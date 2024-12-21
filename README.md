@@ -20,6 +20,8 @@ Official instructions for installing iOS app: https://developer.apple.com/docume
 
 There are 2 demo video YouTube link below, or you can check the folder /Crack_segmentation/assets/ , to find the mp4 file.
 
+In these demo videos, I searched on google for "concrete images" and showed on my monitor to simulate a real concrete wall environment. You can see the real-time segmentation result will be presented as blue masks.
+
 3x3 means I slice the whole screen into 9 blocks (3 rows & 3 columns). Each block represents a picture, goes into U-net model for segmentation process.
 https://www.youtube.com/shorts/ivD1d-AnnV4
 
