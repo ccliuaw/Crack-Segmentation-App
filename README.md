@@ -1,4 +1,4 @@
-# CrackSegmentationApp
+# Crack Segmentation App
 This is an iOS app for concrete crack real-time segmentation.
 
 This project is supervised by Prof. Chia-Ming Chang in National Taiwan University (NTU), department of Civil Engineering.
