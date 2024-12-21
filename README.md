@@ -1,5 +1,5 @@
 # Crack Segmentation App
-This is an iOS app for concrete crack real-time segmentation.
+This is an iOS app for concrete crack real-time segmentation. Integrate the segmentation model into an iOS app, allow user to capture real-time segmentation results.
 
 This project is supervised by Prof. Chia-Ming Chang in National Taiwan University (NTU), department of Civil Engineering.
 
@@ -10,8 +10,11 @@ Training a U-net model for crack segmentation by myself, using 12000+ images.
 
 >The model file for the demo is at the folder /Crack_segmentation/CoreMLSample/Extensions/Crack_model.mlmodel
 
-# iOS application
-Integrate the segmentation model into an iOS app, allow user to capture real-time segmentation results.
+# Install app
+
+Download the whole project to your local computer and launch with Xcode, connect with your iOS device (iPhone recommended). And you are good to go!
+
+https://developer.apple.com/documentation/xcode/running-your-app-in-simulator-or-on-a-device
 
 # Demo vedios
 
