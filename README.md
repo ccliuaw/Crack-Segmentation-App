@@ -14,7 +14,7 @@ Training a U-net model for crack segmentation, using 12000+ images.
 
 Download the whole project to your local computer and launch with Xcode, connect with your iOS device (iPhone 13 or above recommended). And you are good to go!
 
-Official instructions for install iOS app: https://developer.apple.com/documentation/xcode/running-your-app-in-simulator-or-on-a-device
+Official instructions for installing iOS app: https://developer.apple.com/documentation/xcode/running-your-app-in-simulator-or-on-a-device
 
 # Demo videos
 
