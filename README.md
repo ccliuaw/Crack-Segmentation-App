@@ -22,7 +22,7 @@ Official instructions for installing iOS app: https://developer.apple.com/docume
 
 ## Demo videos
 
-There are 2 demo video YouTube link below, or you can check the folder /Crack_segmentation/assets/ , to find the mp4 file.
+There are 2 demo video YouTube links below, or you can check the folder /Crack_segmentation/assets/ , to find the mp4 files.
 
 In these demo videos, I searched on google for "concrete images" and showed on my monitor to simulate a real concrete wall environment. You can see the real-time segmentation result will be presented as blue masks.
 
